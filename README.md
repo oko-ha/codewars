@@ -12,3 +12,6 @@
 
 > 2023.11.20
 > - <4kyu> **Hamming Numbers** [문제](https://www.codewars.com/kata/526d84b98f428f14a60008da) / [풀이](https://github.com/oko-ha/codewars/blob/main/Hamming%20Numbers/solution.py)
+
+> 2023.11.21
+> - <4kyu> **Bridge the Islands** [문제](https://www.codewars.com/kata/64a815e3e96dec077e305750) / [풀이](https://github.com/oko-ha/codewars/blob/main/Bridge%20the%20Islands/solution.py)
