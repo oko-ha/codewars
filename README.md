@@ -18,3 +18,4 @@
 
 > 2023.11.22
 > - <4kyu> **Twice linear** [문제](https://www.codewars.com/kata/5672682212c8ecf83e000050) / [풀이](https://github.com/oko-ha/codewars/blob/main/Twice%20linear/solution.py)
+> - <3kyu> **GET TO The CHOPPA!** [문제](https://www.codewars.com/kata/5573f28798d3a46a4900007a) / [풀이](https://github.com/oko-ha/codewars/blob/main/GET%20TO%20THE%20CHOPPA!/solution.py)
