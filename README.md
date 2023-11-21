@@ -15,3 +15,6 @@
 
 > 2023.11.21
 > - <4kyu> **Bridge the Islands** [문제](https://www.codewars.com/kata/64a815e3e96dec077e305750) / [풀이](https://github.com/oko-ha/codewars/blob/main/Bridge%20the%20Islands/solution.py)
+
+> 2023.11.22
+> - <4kyu> **Twice linear** [문제](https://www.codewars.com/kata/5672682212c8ecf83e000050) / [풀이](https://github.com/oko-ha/codewars/blob/main/Twice%20linear/solution.py)
