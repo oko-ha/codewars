@@ -23,3 +23,6 @@
 
 > 2023.11.23
 > - <3kyu> **Papers, Please** [문제](https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0) / [풀이](https://github.com/oko-ha/codewars/blob/main/Papers,%20Please/solution.py)
+
+> 2023.11.24
+> - <4kyu> **Next smaller number with the same digits** [문제](https://www.codewars.com/kata/5659c6d896bc135c4c00021e) / [풀이](https://github.com/oko-ha/codewars/blob/main/Next%20smaller%20number%20with%20the%20same%20digits/solution.py)
