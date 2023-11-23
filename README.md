@@ -20,3 +20,6 @@
 > - <4kyu> **Twice linear** [문제](https://www.codewars.com/kata/5672682212c8ecf83e000050) / [풀이](https://github.com/oko-ha/codewars/blob/main/Twice%20linear/solution.py)
 > - <3kyu> **GET TO THE CHOPPA!** [문제](https://www.codewars.com/kata/5573f28798d3a46a4900007a) / [풀이](https://github.com/oko-ha/codewars/blob/main/GET%20TO%20THE%20CHOPPA!/solution.py)
 > - <2kyu> **Transforming Maze Solver** [문제](https://www.codewars.com/kata/5b86a6d7a4dcc13cd900000b) / [풀이](https://github.com/oko-ha/codewars/blob/main/Transforming%20Maze%20Solver/solution.py)
+
+> 2023.11.23
+> - <3kyu> **Papers, Please** [문제](https://www.codewars.com/kata/59d582cafbdd0b7ef90000a0) / [풀이](https://github.com/oko-ha/codewars/blob/main/Papers,%20Please/solution.py)
