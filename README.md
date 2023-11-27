@@ -26,3 +26,6 @@
 
 > 2023.11.24
 > - <4kyu> **Next smaller number with the same digits** [문제](https://www.codewars.com/kata/5659c6d896bc135c4c00021e) / [풀이](https://github.com/oko-ha/codewars/blob/main/Next%20smaller%20number%20with%20the%20same%20digits/solution.py)
+
+> 2023.11.27
+> - <4kyu> **Path Finder #1:can you reach the exit?** [문제](https://www.codewars.com/kata/5765870e190b1472ec0022a2) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20#1/solution.py)
