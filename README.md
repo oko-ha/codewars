@@ -29,3 +29,6 @@
 
 > 2023.11.27
 > - <4kyu> **Path Finder #1:can you reach the exit?** [문제](https://www.codewars.com/kata/5765870e190b1472ec0022a2) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20%231/solution.py)
+
+> 2023.11.28
+> - <4kyu> **Path Finder #2:shortest path** [문제](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20%232/solution.py)
