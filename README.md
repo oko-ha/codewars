@@ -35,3 +35,6 @@
 
 > 2023.11.29
 > - <3kyu> **Path Finder #3:the Alpinist** [문제](https://www.codewars.com/kata/576986639772456f6f00030c) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20%233/solution.py)
+
+> 2023.11.30
+> - <4kyu> **Path Finder #4:where are you?** [문제](https://www.codewars.com/kata/5a0573c446d8435b8e00009f) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20%234/solution.py)
