@@ -38,3 +38,6 @@
 
 > 2023.11.30
 > - <4kyu> **Path Finder #4:where are you?** [문제](https://www.codewars.com/kata/5a0573c446d8435b8e00009f) / [풀이](https://github.com/oko-ha/codewars/blob/main/Path%20Finder%20%234/solution.py)
+
+> 2023.12.01
+> - <4kyu> **All Balanced Parentheses** [문제](https://www.codewars.com/kata/5426d7a2c2c7784365000783) / [풀이](https://github.com/oko-ha/codewars/blob/main/All%20Balanced%20Parentheses/solution.py)
