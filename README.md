@@ -44,3 +44,6 @@
 
 > 2023.12.04
 > - <3kyu> **Screen Locking Patterns** [문제](https://www.codewars.com/kata/585894545a8a07255e0002f1) / [풀이](https://github.com/oko-ha/codewars/blob/main/Screen%20Locking%20Patterns/solution.py)
+
+> 2023.12.05
+> - <3kyu> **Breaking the Vigenère Cipher** [문제](https://www.codewars.com/kata/544e5d75908f2d5eb700052b) / [풀이](https://github.com/oko-ha/codewars/blob/main/Breaking%20the%20Vigenère%20Cipher/solution.py)
