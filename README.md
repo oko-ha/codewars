@@ -41,3 +41,6 @@
 
 > 2023.12.01
 > - <4kyu> **All Balanced Parentheses** [문제](https://www.codewars.com/kata/5426d7a2c2c7784365000783) / [풀이](https://github.com/oko-ha/codewars/blob/main/All%20Balanced%20Parentheses/solution.py)
+
+> 2023.12.04
+> - <3kyu> **Screen Locking Patterns** [문제](https://www.codewars.com/kata/585894545a8a07255e0002f1) / [풀이](https://github.com/oko-ha/codewars/blob/main/Screen%20Locking%20Patterns/solution.py)
