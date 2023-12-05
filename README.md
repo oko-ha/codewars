@@ -47,3 +47,4 @@
 
 > 2023.12.05
 > - <3kyu> **Breaking the Vigenère Cipher** [문제](https://www.codewars.com/kata/544e5d75908f2d5eb700052b) / [풀이](https://github.com/oko-ha/codewars/blob/main/Breaking%20the%20Vigenère%20Cipher/solution.py)
+> - <4kyu> **Sum of Intervals** [문제](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) / [풀이](https://github.com/oko-ha/codewars/blob/main/Sum%20of%20Intervals/solution.py)
