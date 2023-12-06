@@ -53,4 +53,4 @@
 > - <4kyu> **Longest Common Subsequence** [문제](https://www.codewars.com/kata/593ff8b39e1cc4bae9000070) / [풀이](https://github.com/oko-ha/codewars/blob/main/Longest%20Common%20Subsequence/solution.py)
 
 > 2023.12.07
-> - <4kyu> **Ten-Pin Bowling** [문제](https://www.codewars.com/kata/5531abe4855bcc8d1f00004c) / [풀이](https://github.com/oko-ha/codewars/blob/main/Ten-pin%20Bowling/solution.py)
+> - <4kyu> **Ten-Pin Bowling** [문제](https://www.codewars.com/kata/5531abe4855bcc8d1f00004c) / [풀이](https://github.com/oko-ha/codewars/blob/main/Ten-Pin%20Bowling/solution.py)
