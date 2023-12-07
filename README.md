@@ -54,3 +54,4 @@
 
 > 2023.12.07
 > - <4kyu> **Ten-Pin Bowling** [문제](https://www.codewars.com/kata/5531abe4855bcc8d1f00004c) / [풀이](https://github.com/oko-ha/codewars/blob/main/Ten-Pin%20Bowling/solution.py)
+> - <4kyu> **The Greatest Warrior** [문제](https://www.codewars.com/kata/5941c545f5c394fef900000c) / [풀이](https://github.com/oko-ha/codewars/blob/main/The%20Greatest%20Warrior/solution.py)
