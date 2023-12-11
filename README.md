@@ -58,3 +58,6 @@
 
 > 2023.12.08
 > - <4kyu> **Greedy thief** [문제](https://www.codewars.com/kata/58296c407da141e2c7000271) / [풀이](https://github.com/oko-ha/codewars/blob/main/Greedy%20thief/solution.py)
+
+> 2023.12.11
+> - <4kyu> **Range Extraction** [문제](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) / [풀이](https://github.com/oko-ha/codewars/blob/main/Range%20Extraction/solution.py)
